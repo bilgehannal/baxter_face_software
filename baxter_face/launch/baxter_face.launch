@@ -1,0 +1,12 @@
+<launch>
+
+  
+
+  <!-- Start screen_listener node -->
+  <node name="rsdk_xdisplay_image" pkg="baxter_face" type="screen_listener.py" />
+
+  <!-- Start control_physical node -->
+  <node name="control" pkg="baxter_face" type="control_physical.py" />
+
+
+</launch>

@@ -1,0 +1,106 @@
+#display_chatter -> name of the topic as String
+#left side is waited word(s) from user
+#right side is message data to publish
+
+klasik.default
+
+mutlu.happy
+sevin.happy
+gül.happy
+gul.happy
+akıllı.happy
+akilli.happy
+
+üzül.sad
+uzul.sad
+üzgün.sad
+uzgun.sad
+kötü.sad
+kotu.sad
+
+
+kızgın.angry
+kizgin.angry
+öfke.angry
+ofke.angry
+sinir.angry
+
+şaşır.confused
+sasir.confused
+sürpriz.confused
+surpriz.confused
+
+kork.panic
+panik.panic
+
+sıkıl.bored
+sikil.bored
+sıkıcı.bored
+sikici.bored
+
+kurnaz.crafty
+
+uyu.sleep
+uyku.sleep
+görüşürüz.sleep
+gorusuruz.sleep
+
+uyan.wake_up
+kalk.wake_up
+
+normal sol kol.left_arm_follow_on
+normal sol el.left_arm_follow_on
+normal solkol.left_arm_follow_on
+normal solel.left_arm_follow_on
+
+normal sağ kol.right_arm_follow_on
+normal sağ el.right_arm_follow_on
+normal sağkol.right_arm_follow_on
+normal sağel.right_arm_follow_on
+normal sag kol.right_arm_follow_on
+normal sag el.right_arm_follow_on
+normal sagkol.right_arm_follow_on
+normal sagel.right_arm_follow_on
+
+dinamik sol kol.dynamic_left_arm_follow_on
+dinamik sol el.dynamic_left_arm_follow_on
+dinamik solkol.dynamic_left_arm_follow_on
+dinamik solel.dynamic_left_arm_follow_on
+
+dinamik sağ kol.dynamic_right_arm_follow_on
+dinamik sağ kol.dynamic_right_arm_follow_on
+dinamik sağkol.dynamic_right_arm_follow_on
+dinamik sağel.dynamic_right_arm_follow_on
+dinamik sag kol.dynamic_right_arm_follow_on
+dinamik sag kol.dynamic_right_arm_follow_on
+dinamik sagkol.dynamic_right_arm_follow_on
+dinamik sagel.dynamic_right_arm_follow_on
+
+takibi bırak.arm_follow_off
+takibi birak.arm_follow_off
+
+kapan.exit
+kapat.exit
+
+motor.enable
+hareketlen.enable
+
+kırmızı alarm.disable
+kirmizi alarm.disable
+
+sağa bak.dynamic_look_-65_0
+sağ tarafa bak.dynamic_look_-65_0
+saga bak.dynamic_look_-65_0
+sag tarafa bak.dynamic_look_-65_0
+sola bak.dynamic_look_65_0
+sol tarafa bak.dynamic_look_65_0
+öne bak.dynamic_look_0_0
+önüne bak.dynamic_look_0_0
+ön tarafa bak.dynamic_look_0_0
+one bak.dynamic_look_0_0
+onune bak.dynamic_look_0_0
+on tarafa bak.dynamic_look_0_0
+
+beni takip et.human_follow_on
+bana bakma.human_follow_off
+
